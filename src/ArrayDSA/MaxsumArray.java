@@ -18,7 +18,7 @@ public class MaxsumArray {
                 }
             }
         }
-        System.out.println("maxSum = " + maxSum);
+        System.out.print("maxSum = " + maxSum);
     }
     public static void main(String[] args) {
         int number[] = {1,-2,6,1,3};
